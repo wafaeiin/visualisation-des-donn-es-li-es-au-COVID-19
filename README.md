@@ -83,6 +83,7 @@ Power BI was used for a dynamic and interactive report, highlighting:
 Add a sample Power BI dashboard image:
 ```markdown
 ![COVID-19 Power BI Dashboard](visuals/powerbi_dashboard.png)
+
 ```
 
 ---
