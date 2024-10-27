@@ -6,10 +6,6 @@ Here is a structured `README.md` file for your COVID-19 Data Analysis project. I
 ## Project Overview
 This project analyzes COVID-19 data using Python for data processing and visualization, and Power BI for comprehensive reporting. The goal is to understand trends, key statistics, and patterns in the pandemic’s spread and impact.
 
-**Prepared by:**
-- BOUDRAR Wafae  
-- OUCHEN Oualae  
-- HADDIOUI Souhayla  
 
 **Instructor Acknowledgement:**  
 We would like to express our gratitude to our professors, Ghizlane Bourahout and Btihal Elghali, for their guidance and invaluable support.
