@@ -1,3 +1,4 @@
+![Capture](https://github.com/user-attachments/assets/8cc85b15-4a00-4000-bc5e-02ed9bbe0eb0)
 Here is a structured `README.md` file for your COVID-19 Data Analysis project. It includes instructions on how to add images for clarity.
 
 ```markdown
@@ -68,7 +69,7 @@ Python is used to process and visualize the data. The following steps were under
 
 Add a sample image for a Python-generated graph:
 ```markdown
-![COVID-19 Case Trend](visuals/python_case_trend.png)
+![COVID-19 Case Trend](visuals/python_case_trend.PNG)
 ```
 
 ### Power BI Visualization
@@ -78,7 +79,9 @@ Power BI was used for a dynamic and interactive report, highlighting:
 
 Add a sample Power BI dashboard image:
 ```markdown
-![COVID-19 Power BI Dashboard](visuals/powerbi_dashboard.png)
+![COVID-19 Power BI Dashboard](visuals/powerbi_dashboard.PNG)
+![COVID-19 Power BI Dashboard](visuals/powerbi_dashboard1.PNG)
+![COVID-19 Power BI Dashboard](visuals/powerbi_dashboard2.PNG)
 
 ```
 
@@ -105,5 +108,3 @@ This project provided hands-on experience in data analysis and visualization, en
 This project is licensed under the MIT License.
 
 ```
-
-To add images, place your generated images (e.g., Python plots and Power BI dashboards) in a folder named `visuals/` and update the image links in the README file as needed.
